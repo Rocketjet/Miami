@@ -1,6 +1,7 @@
 # Landing page Miami
-- Beautiful landing page using HTML, BEM methodology, SCSS and JavaScript.
-- Developed first with the Mobile First methodology, then for tablet and for desktop.
+- Beautiful landing page using HTML, BEM methodology, SCSS and JavaScript
+- Build with grid layout
+- Developed first with the Mobile First methodology, then for tablet and for desktop
 - With beautiful animations and hover effects
 - Clickable social links, working submit form, anchors
 - Burger menu
